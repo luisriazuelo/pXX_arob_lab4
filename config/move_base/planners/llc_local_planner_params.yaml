@@ -1,0 +1,6 @@
+LLCLocalPlanner:
+  kalpha: 0
+  krho: 0
+  kbeta: 0
+  rho_th: 0
+
