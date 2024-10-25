@@ -1,6 +1,6 @@
 LLCLocalPlanner:
-  kalpha: 0
-  krho: 0
-  kbeta: 0
-  rho_th: 0
+  kalpha: 2.75
+  krho: 0.5
+  kbeta: 0.5
+  rho_th: 0.2
 
